@@ -1,0 +1,5 @@
+Credentials cache: API:4149
+        Principal: yhaimouc@1337.MA
+
+  Issued                Expires               Principal
+Jun 21 15:20:38 2021  Jun 28 15:19:40 2021  krbtgt/1337.MA@1337.MA
